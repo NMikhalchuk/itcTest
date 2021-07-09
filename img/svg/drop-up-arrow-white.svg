@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="67.46875mm"
+   height="33.734375mm"
+   viewBox="0 0 67.46875 33.734375"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="drop-up-arrow.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-515.35713"
+     inkscape:cy="443.75001"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-111.40848,-232.50782)">
+    <g
+       id="g859"
+       transform="matrix(0.26458333,0,0,-0.26458333,111.63929,266.22299)">
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4621">
+	<g
+   id="arrow-drop-down">
+		<polygon
+   id="polygon4618"
+   points="127.5,191.25 255,63.75 0,63.75 " />
+
+	</g>
+
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4623">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4625">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4627">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4629">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4631">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4633">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4635">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4637">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4639">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4641">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4643">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4645">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4647">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4649">
+</g>
+      <g
+         transform="translate(-0.87235819,-63.822581)"
+         id="g4651">
+</g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4660"
+         d="M 62.901836,63.387099 -0.48387629,0 H 126.53087 253.54561 L 190.1599,63.387099 c -34.86215,34.8629 -63.49521,63.387091 -63.62903,63.387091 -0.13383,0 -28.766891,-28.524191 -63.629034,-63.387091 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.48387095;paint-order:markers stroke fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4662"
+         d="M 63.143771,63.145159 0,0 h 126.53087 126.53087 l -63.14378,63.145159 c -34.72907,34.72984 -63.25327,63.145161 -63.38709,63.145161 -0.13383,0 -28.658025,-28.415321 -63.387099,-63.145161 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.48387095;paint-order:markers stroke fill" />
+    </g>
+  </g>
+</svg>

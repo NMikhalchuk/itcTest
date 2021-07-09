@@ -1,0 +1,90 @@
+//@import url('https://fonts.googleapis.com/css?family=Exo+2:800');
+$padding-space-ver:25px 0;
+$padding-space-hor:0 25px;
+$padding-space-both:25px;
+$Exo-two: 'Exo 2', sans-serif;
+$Exo: 'Exo', sans-serif;
+$Open-Sans: 'Open Sans', sans-serif;
+$large-width:1520px;
+$max-laptop:1366px;
+$medium-breakpoint:1199px;
+$tablet-landscape:1024px;
+$medium-begin:992px;
+$sm-breakpoint:991px;
+$breakpoint-830:830px;
+$breakpoint-850:850px;
+$xs-breakpoint:767px;
+$xs-breakpoint-2:762px;
+$xs-md-breakpoint:730px;
+$iphone5-landscape:568px;
+$mobile-breakpoint:479px;
+$iPhone6Plus-portrait:414px;
+$nexus6P-portrait:412px;
+$iPhone6-portrait:375px;
+$galaxyS5-portrait:360px;
+$iphone5-portrait:320px;
+$underline-overline: #b9b9bb;
+$btn_hover-color:#c53303;
+$btn_shop-now:#7dd006;
+$main-text-color:rgba(108,108,108,1);
+$backgr-text-color:#fd4f16;
+$lnd-menu-hover-color:#fd6534;
+$lnd-menu-color:#fff;
+$lnd-menu-bg-color:#606b6f;
+$landing-orange: #FF5F25;
+
+$errColor: red;
+
+
+@mixin loadingGradient() {
+	@-webkit-keyframes loading-gradient {
+		0% {
+			background-position: 0 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0 50%;
+		}
+	}
+	@-moz-keyframes loading-gradient {
+		0% {
+			background-position: 0 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0 50%;
+		}
+	}
+	@-ms-keyframes loading-gradient {
+		0% {
+			background-position: 0 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0 50%;
+		}
+	}
+	@keyframes loading-gradient {
+		0% {
+			background-position: 0 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0 50%;
+		}
+	}
+}
+
+@mixin bgLoading() {
+	background: linear-gradient(90deg, #BFBFBF, #E9EEF1, #BFBFBF);
+	background-size: 400% 100%;
+	animation: loading-gradient 3s ease infinite;
+}

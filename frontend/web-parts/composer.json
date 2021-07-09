@@ -1,8 +1,0 @@
-{
-  "name": "itc/web-parts",
-  "type": "library",
-  "description": "ITC header, footer etc.",
-  "keywords": ["ITC"],
-  "homepage": "https://www.itcreations.com",
-  "license": "Apache-2.0"
-}

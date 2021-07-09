@@ -1,5 +1,5 @@
 {
-  "name": "itc/web-parts",
+  "name": "itc/common",
   "type": "library",
   "description": "ITC header, footer etc.",
   "keywords": ["ITC"],
